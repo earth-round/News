@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://earth-round.github.io/News/sitemap.xml
